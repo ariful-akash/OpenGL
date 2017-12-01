@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
 
         // The name of the file to open.
-        String path = "/Users/ariful/Movies/Development/openGL_Assignment/Assignment 2/test/test cases/2/";
+        String path = "/Users/ariful/Movies/Development/Assignment 2/test/test cases/2/";
 
         String scene = path + "scene.txt";
         String stage1 = path + "stage1.txt";
